@@ -1,3 +1,4 @@
 Oi, meu nome é Nicholas Patrick, este arquivo de texto é sobre mim, sou aluno da UniFil e estou cursando Engenharia de Software!
 Nesta atividade estou aprendendo sobre repositórios e gerência de configuração!
 Esta linha foi adicionada diretamente pelo GitHub em uma branch separada.
+Alteração da branch alteracao-local.
